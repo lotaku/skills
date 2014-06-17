@@ -19,16 +19,8 @@
 * server：使用`try...except...`处理未定义包协议号发送的错误，在server显示错误信息，并把信息打包发给client
 
 ###运行程序
-* 依次运行`client`和`server`文件夹下的`main.py`文件   
-     
-     
-    #在终端里执行命令：
-    python main.py
-
-* 按照程序的提示，在client输入测试内容，如：   
-
-    1,首都beijing
-
+* 依次运行`client`和`server`文件夹下的`main.py`文件,在终端里执行命令：`python main.py`
+* 按照程序的提示，在client输入测试内容，如: `1,首都beijing`
 * 输入exit ，可以退出程序
 
 ###测试截图
