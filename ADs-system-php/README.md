@@ -14,4 +14,4 @@
 ###系统运行截图
 
 
-![会员登录界面图](https://github.com/lotaku/skills/blob/master/ADs-system-php/%E5%9B%BE%E7%89%87/%E3%80%80%E3%80%80%E4%BC%9A%E5%91%98%E7%99%BB%E5%BD%95%E7%95%8C%E9%9D%A2%E5%9B%BE.png)
+![会员登录界面图](https://raw.githubusercontent.com/lotaku/skills/master/ADs-system-php/%E5%9B%BE%E7%89%87/%E3%80%80%E3%80%80%E4%BC%9A%E5%91%98%E7%99%BB%E5%BD%95%E7%95%8C%E9%9D%A2%E5%9B%BE.png)
